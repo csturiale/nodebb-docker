@@ -1,0 +1,11 @@
+node_modules
+nodebb-chart
+mnt
+logs/*
+.idea
+.husky
+.github
+.tx
+Dockerfile
+docker-compose.yml
+pidfile

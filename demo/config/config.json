@@ -1,0 +1,14 @@
+{
+  "url": "http://localhost:4567",
+  "secret": "2b8d04a9-9168-43b6-a99f-eae8429f9f4e",
+  "database": "postgres",
+  "port": "4567",
+  "postgres": {
+	"host": "db",
+	"port": "5432",
+	"username": "root",
+	"password": "root",
+	"database": "nodebb",
+	"ssl": "false"
+  }
+}
